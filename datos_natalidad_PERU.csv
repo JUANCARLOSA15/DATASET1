@@ -1,0 +1,101 @@
+EDAD_MADRE,EST_CIVM,NIV_EDUM,AREA_RES,N_HIJOSV,EDAD_PADRE,NIV_EDUP
+33,Viuda,Técnico,Rural,6,31,Universitario
+16,Viuda,Técnico,Urbana,6,21,Universitario
+32,Soltera,Técnico,Rural,1,28,Primaria
+29,Unión Libre,Secundaria,Rural,9,48,Secundaria
+23,Divorciada,Primaria,Rural,6,29,Secundaria
+32,Divorciada,Ninguno,Rural,1,54,Primaria
+35,Casada,Secundaria,Rural,2,30,Ninguno
+33,Casada,Ninguno,Rural,5,57,Secundaria
+37,Soltera,Ninguno,Rural,4,34,Secundaria
+35,Viuda,Primaria,Rural,5,58,Primaria
+16,Soltera,Primaria,Urbana,8,40,Universitario
+21,Divorciada,Primaria,Rural,0,36,Universitario
+20,Soltera,Universitario,Rural,4,45,Primaria
+36,Unión Libre,Universitario,Urbana,6,22,Primaria
+30,Viuda,Primaria,Urbana,3,34,Universitario
+23,Viuda,Secundaria,Rural,1,19,Primaria
+22,Soltera,Técnico,Rural,7,23,Secundaria
+18,Divorciada,Técnico,Urbana,9,41,Secundaria
+16,Viuda,Técnico,Rural,4,32,Secundaria
+20,Soltera,Primaria,Urbana,6,33,Técnico
+30,Viuda,Universitario,Urbana,2,28,Secundaria
+18,Viuda,Universitario,Rural,6,56,Universitario
+35,Soltera,Primaria,Rural,2,53,Técnico
+41,Divorciada,Secundaria,Urbana,5,44,Secundaria
+25,Viuda,Primaria,Rural,8,25,Técnico
+31,Unión Libre,Secundaria,Urbana,0,19,Primaria
+21,Soltera,Secundaria,Urbana,8,47,Primaria
+24,Divorciada,Ninguno,Urbana,5,53,Ninguno
+39,Soltera,Secundaria,Urbana,0,27,Primaria
+39,Divorciada,Secundaria,Urbana,2,25,Primaria
+40,Viuda,Primaria,Rural,1,25,Universitario
+34,Casada,Primaria,Urbana,7,45,Ninguno
+30,Casada,Secundaria,Rural,7,38,Primaria
+38,Casada,Primaria,Rural,7,59,Primaria
+34,Divorciada,Ninguno,Rural,5,28,Secundaria
+38,Casada,Primaria,Urbana,1,41,Secundaria
+25,Divorciada,Primaria,Rural,1,23,Universitario
+18,Unión Libre,Técnico,Rural,7,32,Universitario
+34,Casada,Ninguno,Rural,2,47,Secundaria
+21,Soltera,Universitario,Urbana,7,20,Técnico
+37,Soltera,Universitario,Rural,3,44,Técnico
+17,Soltera,Técnico,Rural,8,58,Universitario
+28,Viuda,Secundaria,Rural,3,30,Primaria
+31,Soltera,Primaria,Rural,4,42,Universitario
+39,Viuda,Primaria,Rural,6,50,Universitario
+40,Unión Libre,Universitario,Urbana,7,36,Primaria
+22,Divorciada,Ninguno,Rural,0,42,Ninguno
+17,Viuda,Primaria,Urbana,6,43,Secundaria
+39,Viuda,Técnico,Urbana,9,23,Secundaria
+29,Divorciada,Primaria,Urbana,7,19,Ninguno
+31,Divorciada,Primaria,Urbana,5,30,Técnico
+40,Unión Libre,Secundaria,Rural,8,27,Ninguno
+38,Viuda,Secundaria,Rural,2,54,Técnico
+34,Soltera,Técnico,Urbana,8,42,Técnico
+20,Unión Libre,Técnico,Urbana,3,22,Técnico
+16,Casada,Primaria,Rural,1,55,Ninguno
+41,Divorciada,Secundaria,Rural,4,26,Primaria
+41,Divorciada,Ninguno,Rural,0,33,Universitario
+16,Divorciada,Secundaria,Rural,1,22,Universitario
+18,Divorciada,Universitario,Urbana,1,38,Ninguno
+31,Viuda,Técnico,Rural,5,24,Primaria
+19,Divorciada,Técnico,Rural,8,40,Secundaria
+37,Casada,Técnico,Rural,1,40,Primaria
+39,Soltera,Ninguno,Urbana,8,25,Secundaria
+36,Soltera,Ninguno,Rural,5,56,Universitario
+28,Divorciada,Primaria,Urbana,6,19,Técnico
+29,Soltera,Ninguno,Rural,8,31,Universitario
+33,Casada,Secundaria,Rural,9,46,Técnico
+17,Viuda,Primaria,Rural,4,41,Universitario
+19,Unión Libre,Universitario,Urbana,9,47,Ninguno
+33,Unión Libre,Universitario,Urbana,3,24,Secundaria
+24,Soltera,Técnico,Urbana,5,40,Universitario
+44,Casada,Técnico,Urbana,3,40,Secundaria
+35,Casada,Técnico,Urbana,1,44,Universitario
+23,Unión Libre,Ninguno,Rural,2,33,Primaria
+40,Casada,Ninguno,Rural,1,59,Universitario
+37,Casada,Primaria,Rural,3,28,Ninguno
+42,Unión Libre,Secundaria,Urbana,4,27,Primaria
+34,Viuda,Secundaria,Urbana,1,51,Ninguno
+40,Divorciada,Primaria,Rural,4,39,Universitario
+40,Soltera,Técnico,Urbana,1,32,Técnico
+17,Unión Libre,Universitario,Rural,9,46,Técnico
+27,Unión Libre,Técnico,Rural,7,38,Universitario
+44,Casada,Secundaria,Rural,2,38,Primaria
+22,Unión Libre,Secundaria,Rural,4,42,Secundaria
+40,Casada,Primaria,Rural,3,29,Primaria
+19,Unión Libre,Secundaria,Rural,9,50,Ninguno
+36,Soltera,Primaria,Urbana,4,24,Secundaria
+28,Viuda,Primaria,Urbana,9,23,Técnico
+19,Divorciada,Técnico,Rural,2,21,Técnico
+19,Viuda,Ninguno,Rural,1,32,Primaria
+40,Soltera,Secundaria,Rural,7,44,Ninguno
+27,Soltera,Técnico,Urbana,6,37,Ninguno
+31,Soltera,Primaria,Rural,5,40,Técnico
+38,Unión Libre,Secundaria,Rural,8,46,Ninguno
+25,Soltera,Primaria,Rural,3,19,Secundaria
+29,Unión Libre,Primaria,Urbana,8,32,Técnico
+32,Divorciada,Primaria,Urbana,2,52,Técnico
+36,Casada,Primaria,Urbana,0,50,Técnico
+33,Divorciada,Universitario,Rural,5,33,Universitario
